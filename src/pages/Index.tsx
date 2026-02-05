@@ -31,7 +31,7 @@ const Index = () => {
           {/* Footer decoration */}
           <div className="text-center mt-8 space-y-2">
             <p className="text-chocolate-light/60 font-script text-lg">
-              Made with 💙 just for you
+              Made with 💙 just for you. By Juls
             </p>
             <div className="flex justify-center gap-2">
               <span className="w-2 h-2 rounded-full bg-chocolate/40"></span>

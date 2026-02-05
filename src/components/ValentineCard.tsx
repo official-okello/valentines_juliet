@@ -57,7 +57,7 @@ const ValentineCard = () => {
           Yay! 💕
         </h2>
         <p className="text-2xl md:text-3xl text-chocolate-light font-display">
-          You just made me the happiest person!
+          You just made me the happiest person, Juliet!
         </p>
         <p className="text-xl text-muted-foreground font-display">
           Can't wait to celebrate with you! 🍫💙🤍
